@@ -1,1 +1,1 @@
-# superquality-est
+# Superquality-est
